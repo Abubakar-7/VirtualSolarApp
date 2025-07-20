@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.546750107926-8mtn0t5i6bqj479mln53kfnd2j5m8ctn</string>
+				<string>fb1035882001738528</string>
+			</array>
+		</dict>
+	</array>
+	<key>FacebookAppID</key>
+	<string>1035882001738528</string>
+	<key>FacebookClientToken</key>
+	<string>4fc47ebab49267b7178157f963b91918</string>
+	<key>FacebookDisplayName</key>
+	<string>Virtual Solar UI</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-share-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+	</array>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Poppins.ttf</string>
+		<string>PoppinsLight.ttf</string>
+		<string>PoppinsSemiBold.ttf</string>
+	</array>
+</dict>
+</plist>
